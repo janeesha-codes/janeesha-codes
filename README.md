@@ -56,7 +56,7 @@ I design and build whatever I can imagine.
 My favorite design tools are figma, canva and framer.
 
 #### Fun Facts:
-* I am an ailurophile
+* I am an [ailurophile](https://www.merriam-webster.com/dictionary/ailurophile)
 * I don’t like burgers
 * [Stranger Things](https://www.netflix.com/lk/title/80057281) is my favourite horror tv show
 * **Hobbies:** horror m/ts, late-night music, design stuff
