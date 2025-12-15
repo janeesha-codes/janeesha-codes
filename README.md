@@ -12,7 +12,7 @@ I design and build whatever I can imagine.
       <br>Python
     </td>
   <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=java" width="55" height="48" />
       <br>Java
   </td>
   <td align="center" width="96">
