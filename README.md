@@ -2,9 +2,9 @@
 
 I’m [**Janeesha**](https://www.janeeshafernando.com), a Software Engineer based in Sri Lanka.
 
-I design and build whatever I can imagine.
-
 I am a final year undergraduate at [**University of Westminster**](https://www.westminster.ac.uk/)
+
+I design and build whatever I can imagine.
 
 #### Tech Stack:
 <table>
